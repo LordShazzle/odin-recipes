@@ -1,8 +1,17 @@
 head {
-    background-color: whitesmoke;
+    margin-top: auto;
+    padding:auto; color:azure
+    color: whitesmoke;
 }
 
 body {
+    height:400px;
+    padding:0px;
+    margin:50px;
     background-color: black;
+    color: white;
+}
+h1{
+    padding: 50px;
     color: white;
 }
